@@ -26,10 +26,18 @@ It covers database design, data import, exploratory data analysis (EDA), advance
 ---
 
 ## 📁 Project Structure
+
 📦 Ecommerce_SQL_Project
+
 |-- 📂 data/               → CSV datasets (Customers, Orders, Products, OrderItems)
+
 |-- 📂 SQL/                → All SQL scripts: schema, imports, queries
+
 |-- 📄 ecommerce_project.sql → Full database schema + final queries
+
 |-- 📄 ecommerce_queries_question.sql → All the 40+ practice questions
+
 |-- 📄 README.md           → Project documentation
+
+
 
